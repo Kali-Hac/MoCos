@@ -6,7 +6,7 @@
 # Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification
 
 ## Introduction
-This is the implementation of MoCos presented by "Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identificatio".
+This is the implementation of MoCos presented by "Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification".
 
 
 ## Environment
