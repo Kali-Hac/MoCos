@@ -4,7 +4,7 @@
 ![Faiss-gpu >= 1.6.3](https://img.shields.io/badge/Faiss->=1.6.3-orange.svg)
 
 # Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification
-By Haocong Rao and Chunyan Miao. In AAAI 2025 ([**Arxiv**](https://github.com/Kali-Hac/MoCos)),
+By Haocong Rao and Chunyan Miao. In AAAI 2025 ([**Arxiv**](https://arxiv.org/abs/2412.09044)),
 
 ## Introduction
 This is the official implementation of MoCos presented by "Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification". The codes are used to reproduce experimental results of the proposed TranSG framework in the paper.
@@ -149,6 +149,19 @@ python MoCos.py --dataset CAISA_B --probe_type nm.nm --length 40
 
 Please see ```MoCos.py``` for more details.
 
+## Citation
+If you find our work useful for your research, please cite our paper
+```bash
+@inproceedings{rao2025motif,
+  title     = {Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification},
+  author    = {Rao, Haocong and Miao, Chunyan},
+  booktitle = {Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI)},
+  year      = {2025}
+}
+```
+A professionally curated list of resources (paper, code, data, etc.) on 3D Skeleton Based Person Re-ID (SRID) is available at [SRID Survey](https://github.com/Kali-Hac/SRID).
+
+More awesome skeleton-based models are collected in our [Awesome-Skeleton-Based-Models](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## License
 
